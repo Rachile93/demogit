@@ -16,6 +16,11 @@ public class DEMOGIT {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        System.out.println("ok");
+        
+        
+        System.out.println("bye");
     }
     
 }
